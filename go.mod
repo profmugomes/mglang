@@ -1,5 +1,5 @@
-module github.com/profmugomes/mglang/v2
+module github.com/profmugomes/mglang/v3
 
-go 1.26.5
+go 1.27.2
 
-require golang.org/x/sys v0.47.0
+require golang.org/x/sys v0.49.0
